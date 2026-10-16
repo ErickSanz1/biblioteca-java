@@ -1,10 +1,10 @@
-package main;
+package src.app;
 import java.util.Scanner;
 
-import modelo.Estudiante;
-import modelo.Libro;
-import modelo.Profesor;
-import servicio.Biblioteca;
+import src.modelo.Estudiante;
+import src.modelo.Libro;
+import src.modelo.Profesor;
+import src.servicio.Biblioteca;
 
 public class Main {
     public static void main(String args[]) {

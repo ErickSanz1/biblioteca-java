@@ -1,4 +1,4 @@
-package modelo;
+package src.modelo;
 public class Libro {
     private String titulo;
     private String autor;

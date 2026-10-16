@@ -1,9 +1,9 @@
-package servicio;
+package src.servicio;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import modelo.*;
+import src.modelo.*;
 
 public class Biblioteca{
     private List<Libro> libros = new ArrayList<>(0);

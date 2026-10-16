@@ -1,4 +1,4 @@
-package modelo;
+package src.modelo;
 public class Estudiante extends Usuario{
     private String carrera;
 
